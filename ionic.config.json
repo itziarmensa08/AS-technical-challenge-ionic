@@ -1,0 +1,7 @@
+{
+  "name": "AS-technical-challenge-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
